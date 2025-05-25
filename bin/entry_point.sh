@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -euo pipefail
 
 echo "Entry point script running"
